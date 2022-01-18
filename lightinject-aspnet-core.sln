@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditorGuard.WebFx", "CreditorGuard.WebFx\CreditorGuard.WebFx.csproj", "{A1AB2369-02F6-46A3-AE04-0D116F42DEA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.WebFx", "Application.WebFx\Application.WebFx.csproj", "{A1AB2369-02F6-46A3-AE04-0D116F42DEA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
